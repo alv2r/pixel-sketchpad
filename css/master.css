@@ -1,0 +1,46 @@
+body {
+  background-color: #F2F2F2;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 4em;
+  margin-bottom: 5px;
+  margin-top: 0px;
+}
+
+.btn {
+  padding: 10px;
+  margin: 5px 3px;
+  color: #595959;
+  font-size: 1em;
+  background-color: #F2F2F2;
+  border-radius: 10%;
+}
+
+.wrapper {
+  width: 720px;
+  margin: 0 auto;
+  text-align: center;
+  color: #595959;
+  font-family: 'Ubuntu', sans-serif;;
+}
+
+.highlight-button {
+  color: #F2F2F2;
+  background-color: #595959;
+}
+
+#canvas {
+  height: 720px;
+  width: 720px;
+  margin-top: 20px;
+  border: solid 2px #595959;
+  background-color: white;
+}
+
+.pixel {
+  background-color: #F2F2F2;
+  float: left;
+  border-radius: 50%;
+}
